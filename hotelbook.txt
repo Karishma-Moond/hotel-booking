@@ -1,0 +1,38 @@
+Hotel Booking System
+1. Display Available Rooms
+2. Make a Booking
+3. Exit
+1
+Available Rooms in Sample Hotel:
+Room 101 - Type: Single - Price: $100/night
+Room 102 - Type: Double - Price: $150/night
+Room 103 - Type: Suite - Price: $250/night
+Hotel Booking System
+1. Display Available Rooms
+2. Make a Booking
+3. Exit
+101
+Invalid choice. Please try again.
+Hotel Booking System
+1. Display Available Rooms
+2. Make a Booking
+3. Exit
+2
+Enter your name: kimsu
+Enter the room number you want to book: 104
+Invalid room number.
+Hotel Booking System
+1. Display Available Rooms
+2. Make a Booking
+3. Exit
+2
+Enter your name: kimsu
+Enter the room number you want to book: 102
+Enter the number of nights: 2
+Booking successful!
+Hotel Booking System
+1. Display Available Rooms
+2. Make a Booking
+3. Exit
+3
+Goodbye!

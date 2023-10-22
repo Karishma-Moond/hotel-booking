@@ -1,0 +1,5 @@
+Hostel Booking System
+1. List Hostels
+2. Book a Room
+3. Check Out a Room
+4. Quit
